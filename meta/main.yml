@@ -1,0 +1,28 @@
+---
+galaxy_info:
+  role_name: systemd-journald
+  author: Igor Nikiforov
+  description: Configures systemd-journald
+  license: MIT
+  company: none
+  min_ansible_version: 2.9
+  platforms:
+    - name: Debian
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+    - name: EL
+      versions:
+        - all
+    - name: Fedora
+      versions:
+        - all
+  galaxy_tags:
+    - system
+    - systemd
+    - journald
+    - logging
+
+dependencies: []
