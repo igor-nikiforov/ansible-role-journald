@@ -1,8 +1,8 @@
 ---
 galaxy_info:
-  role_name: systemd-journald
+  role_name: journald
   author: Igor Nikiforov
-  description: Configures systemd-journald
+  description: Configures journald
   license: MIT
   company: none
   min_ansible_version: 2.9

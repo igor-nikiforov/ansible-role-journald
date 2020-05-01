@@ -1,4 +1,4 @@
-# Ansible Role: JournalD
+# Ansible Role: Journald
 
 This role configures Journald parameters on your Linux distribution.
 
